@@ -1,0 +1,2 @@
+execute "bsq map", the bsq will find the biggest possible square and and put the map with the square on the screen.
+The square can replace dots but not 'o'.
